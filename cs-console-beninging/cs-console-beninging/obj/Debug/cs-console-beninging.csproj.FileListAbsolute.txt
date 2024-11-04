@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\bin\Debug\cs-console-beninging.exe.config
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\bin\Debug\cs-console-beninging.exe
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\bin\Debug\cs-console-beninging.pdb
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\obj\Debug\cs-console-beninging.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\obj\Debug\cs-console-beninging.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\obj\Debug\cs-console-beninging.exe
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\obj\Debug\cs-console-beninging.pdb
+C:\Users\User\Desktop\gh\cs-console-prac\cs-console-beninging\cs-console-beninging\bin\Debug\cs-console-beninging.xml
